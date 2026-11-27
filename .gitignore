@@ -1,0 +1,7 @@
+work_test_mode/venv/
+work_test_mode/__pycache__/
+work_test_mode/*.pyc
+work_test_mode/.pytest_cache/
+work_test_mode/test-results/
+work_test_mode/allure-results/
+work_test_mode/allure-report/
